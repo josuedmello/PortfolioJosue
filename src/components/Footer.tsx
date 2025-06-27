@@ -19,7 +19,9 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://www.linkedin.com/in/josu%C3%A9-melo-a32a7113b/"
+                target="_blank"
+                 rel="noopener noreferrer"
                 className="bg-gray-800 hover:bg-teal-600 p-2 rounded-lg transition-colors duration-200"
               >
                 <Linkedin className="w-5 h-5" />
